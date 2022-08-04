@@ -1,7 +1,7 @@
 #########################################
 # Author  : Md. Abdullah Al Mamun
 # Tool    : DFIRT (DFIR Tool)
-# Version : 1.0
+# Version : 2.0
 #########################################
 
 
